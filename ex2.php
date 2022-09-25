@@ -8,7 +8,7 @@
  */
 
 $randArray = makeArray();
-$randArray = calculateArray($randArray);
+calculateArray($randArray);
 
 /*
  * Создает массив 5х7 заполняя случайными числами
